@@ -10,7 +10,7 @@
     position: sticky;
     top: 0;
     background: #ccc;
-    max-width: 450px;
+    max-width: 600px;
     height: 50px;
     margin: 0 auto;
     padding: 5px;
@@ -23,14 +23,14 @@
     position: sticky;
     top: 50px;
     background: rgb(202, 163, 163);
-    max-width: 450px;
+    max-width: 600px;
     margin: 0 auto;
     padding: 5px;
     border: skyblue 1px solid;
 }
 
 .items-container {
-    max-width: 450px;
+    max-width: 600px;
     margin: auto;
     display: grid;
     grid-template-columns: 80% 20%;
